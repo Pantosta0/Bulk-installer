@@ -25,12 +25,31 @@ echo Ok, ready to go!
 pause
 
 @rem ----[ Program List ]----
-$Packages = 'opera-gx', 'git', 'gitkraken', 'vscode', 'winrar','vlc','discord','steam','ubisoft-connect','epicgameslauncher','powertoys','office365business','msiafterburner','droidcamclient','obs-studio','minecraft-launcher','borderlessgaming','k-litecodecpackmega','gimp','jre8','vcredist140','filezilla','spotify','amd-ryzen-chipset', 'geforce-experience'
-
-ForEach ($PackageName in $Packages)
-{
-    choco install $PackageName -y
-}
+choco install opera-gx
+choco install git
+choco install gitkraken
+choco install vscode
+choco install winrar
+choco install vlc
+choco install discord
+choco install steam
+choco install ubisoft-connect
+choco install epicgameslauncher
+choco install powertoys 
+choco install office365business
+choco install msiafterburner
+choco install droidcamclient
+choco install obs-studio
+choco install minecraft-launcher
+choco install borderlessgaming
+choco install k-litecodecpackmega
+choco install gimp
+choco install jre8
+choco install vcredist140
+choco install filezilla
+choco install spotify
+choco install amd-ryzen-chipset
+choco install geforce-experience
 @rem ----[ Program List ]----
 pause
 
