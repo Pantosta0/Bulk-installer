@@ -25,6 +25,8 @@ echo Ok, ready to go!
 pause
 
 @rem ----[ Program List ]----
+choco install amd-ryzen-chipset
+choco install geforce-experience
 choco install opera-gx
 choco install git
 choco install gitkraken
@@ -35,7 +37,7 @@ choco install discord
 choco install steam
 choco install ubisoft-connect
 choco install epicgameslauncher
-choco install powertoys 
+choco install powertoys
 choco install office365business
 choco install msiafterburner
 choco install droidcamclient
@@ -48,11 +50,14 @@ choco install jre8
 choco install vcredist140
 choco install filezilla
 choco install spotify
-choco install amd-ryzen-chipset
-choco install geforce-experience
+choco install qbittorrent
+choco install parsec
+choco install sidequest
+choco install audacity
+choco install ffmpeg-full
 @rem ----[ Program List ]----
 pause
 
 echo.
-echo All programs installed. Welcome Back to Windows o7
+echo Todo instalao. Enjoy o7
 pause
