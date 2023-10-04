@@ -27,7 +27,6 @@ pause
 @rem ----[ Program List ]----
 choco install amd-ryzen-chipset
 choco install geforce-experience
-choco install opera-gx
 choco install git
 choco install gitkraken
 choco install vscode
@@ -43,7 +42,6 @@ choco install msiafterburner
 choco install droidcamclient
 choco install obs-studio
 choco install minecraft-launcher
-choco install borderlessgaming
 choco install k-litecodecpackmega
 choco install gimp
 choco install jre8
