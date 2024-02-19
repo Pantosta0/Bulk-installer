@@ -10,7 +10,7 @@ IF %ERRORLEVEL% EQU 0 (
 
    echo.-------------------------------------------------------------
    echo          Error: Necesito permisos de administrador.
-   echo                 Correme como admin gilipollas
+   echo                                XD
    echo. -------------------------------------------------------------
    pause
    EXIT /B 1
@@ -53,6 +53,7 @@ choco install parsec
 choco install sidequest
 choco install audacity
 choco install ffmpeg-full
+choco install steelseries-engine
 @rem ----[ Program List ]----
 pause
 
